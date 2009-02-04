@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Alexander Greim’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>6F8A623C-AB54-4471-BBD1-9735DAA1EEAA</string>
+		<string>4BADB272-90BA-4431-BC98-D8E62FCCF5C3</string>
+		<string>5C7E1C59-BE86-4A8C-B949-F11AD934F2DF</string>
+	</array>
+	<key>uuid</key>
+	<string>B1CA1BE2-D7EE-4DFE-9892-02302CA4F69C</string>
+</dict>
+</plist>
