@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>`date "+%Y-%m-%d"` alexander</string>
+	<string># `date "+%Y-%m-%d"` alexander: </string>
 	<key>name</key>
 	<string>Note alexander</string>
 	<key>tabTrigger</key>
-	<string>alx</string>
+	<string>note</string>
 	<key>uuid</key>
 	<string>6F8A623C-AB54-4471-BBD1-9735DAA1EEAA</string>
 </dict>

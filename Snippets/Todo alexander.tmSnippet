@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>TODO `date "+%Y-%m-%d"` alexander </string>
+	<string># TODO `date "+%Y-%m-%d"` alexander: </string>
 	<key>name</key>
 	<string>Todo alexander</string>
 	<key>tabTrigger</key>

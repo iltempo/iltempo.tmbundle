@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>FIXME `date "+%Y-%m-%d"` alexander </string>
+	<string># FIXME `date "+%Y-%m-%d"` alexander: </string>
 	<key>name</key>
 	<string>Fix alexander</string>
 	<key>tabTrigger</key>
